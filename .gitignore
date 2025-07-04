@@ -1,0 +1,9 @@
+*.o
+*.out
+*.exe
+*.AppImage
+*.bin
+*.log
+*.swp
+*.DS_Store
+tetris
